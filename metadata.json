@@ -1,0 +1,6 @@
+{
+  "name": "Ollo",
+  "description": "Companion app for Ollo DIY AR smart glasses to manage and sync flashcards over BLE",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
